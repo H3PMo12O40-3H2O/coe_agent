@@ -7,3 +7,6 @@ data/
 # Local editor and generated files
 *.log
 .DS_Store
+
+# Templates
+article_reference/
